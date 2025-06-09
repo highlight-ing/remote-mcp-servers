@@ -1,5 +1,13 @@
 # DeepWiki MCP
 
+| Feature        | Details                           |
+| -------------- | --------------------------------- |
+| Name           | DeepWiki                          |
+| Category       | Documentation RAG                 |
+| URL            | `https://mcp.deepwiki.com/mcp`    |
+| Authentication | Open                              |
+| Maintainer     | [DeepWiki](https://deepwiki.com/) |
+
 How to use the official DeepWiki MCP server.
 
 The DeepWiki MCP server provides programmatic access to DeepWiki’s repository documentation (Devin Wiki) and search capabilities (Ask Devin).

@@ -1,5 +1,13 @@
 # Invideo Model Context Protocol Server
 
+| Feature        | Details                        |
+| -------------- | ------------------------------ |
+| Name           | Invideo                        |
+| Category       | Video Service                  |
+| URL            | `https://mcp.invideo.io/sse`   |
+| Authentication | OAuth2.1                       |
+| Maintainer     | [Invideo](https://invideo.io/) |
+
 The invideo Model Context Protocol (MCP) Server implements the Model Context Protocol standard, providing a bridge between AI assistants and Invideo AI.
 
 ## Remote MCP Server
